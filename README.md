@@ -16,10 +16,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e faço curso livre de F
 ---
 
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/marcos-matsuoka/">
+  <a href = "https://www.linkedin.com/in/marcos-matsuoka/" target = "blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.instagram.com/marcos_junji/">
+  <a href = "https://www.instagram.com/marcos_junji/" target = "blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
