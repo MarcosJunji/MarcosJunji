@@ -1,4 +1,4 @@
-<img src = "banner1.gif" width = "325px"  align = "right"/>
+<img src = "banner1.gif" width = "300px"  align = "right"/>
 
 # 👋🏻 Seja bem-vindo (a) ao meu GitHub!
 Sou estudante de Análise e Desenvolvimento de Sistemas e faço curso livre de Full Stack - Python na EBAC
